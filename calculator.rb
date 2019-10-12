@@ -8,3 +8,5 @@ product = first_number * second_number
 quotient = first_number/second_number
 mod = first_number%second_number
 exponentiation = first_number ** second_number
+
+puts sum, difference, product, quotient, mod, exponentiation
